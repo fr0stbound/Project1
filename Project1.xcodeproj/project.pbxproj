@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3B0687DD29E3389500533A96 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B0687DC29E3389500533A96 /* DetailViewController.swift */; };
 		3B10F14D29E1D44900AAA2BA /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B10F14C29E1D44900AAA2BA /* AppDelegate.swift */; };
 		3B10F14F29E1D44900AAA2BA /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B10F14E29E1D44900AAA2BA /* SceneDelegate.swift */; };
 		3B10F15129E1D44900AAA2BA /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B10F15029E1D44900AAA2BA /* ViewController.swift */; };
@@ -26,6 +27,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		3B0687DC29E3389500533A96 /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 		3B10F14929E1D44900AAA2BA /* Project1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Project1.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3B10F14C29E1D44900AAA2BA /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3B10F14E29E1D44900AAA2BA /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -77,6 +79,7 @@
 			isa = PBXGroup;
 			children = (
 				3B10F14C29E1D44900AAA2BA /* AppDelegate.swift */,
+				3B0687DC29E3389500533A96 /* DetailViewController.swift */,
 				3B10F14E29E1D44900AAA2BA /* SceneDelegate.swift */,
 				3B10F15029E1D44900AAA2BA /* ViewController.swift */,
 				3B10F15229E1D44900AAA2BA /* Main.storyboard */,
@@ -189,6 +192,7 @@
 				3B10F15129E1D44900AAA2BA /* ViewController.swift in Sources */,
 				3B10F14D29E1D44900AAA2BA /* AppDelegate.swift in Sources */,
 				3B10F14F29E1D44900AAA2BA /* SceneDelegate.swift in Sources */,
+				3B0687DD29E3389500533A96 /* DetailViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
